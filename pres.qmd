@@ -1,7 +1,15 @@
 ---
-title: "Posters"
+title: "Presentations"
 format: html
 ---
+
+## Conference Presentations and Posters
+
+### Reducing Publication Bias in Meta-Analyses by Excluding Low-Powered Studies.
+
+-   Society for Research on Educational Effectiveness Conference 2025 (September 2025, Chicago, IL).
+
+-   Society for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI).
 
 ### [Decorrelation Detection in Financial Time Series Data](https://www.wheaton.edu/academics/natural-sciences/summer-research-program/poster-session-awardees/2021/)
 

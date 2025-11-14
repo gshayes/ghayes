@@ -115,6 +115,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="reducing-publication-bias-in-meta-analyses-by-excluding-low-powered-studies." class="level3">
+<h3 class="anchored" data-anchor-id="reducing-publication-bias-in-meta-analyses-by-excluding-low-powered-studies.">Reducing Publication Bias in Meta-Analyses by Excluding Low-Powered Studies.</h3>
+<ul>
+<li><p>Society for Research on Educational Effectiveness Conference 2025 (September 2025, Chicago, IL).</p></li>
+<li><p>Society for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI).</p></li>
+</ul>
+</section>
 <section id="decorrelation-detection-in-financial-time-series-data" class="level3">
 <h3 class="anchored" data-anchor-id="decorrelation-detection-in-financial-time-series-data"><a href="https://www.wheaton.edu/academics/natural-sciences/summer-research-program/poster-session-awardees/2021/">Decorrelation Detection in Financial Time Series Data</a></h3>
 <ul>
@@ -222,7 +229,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/gshayes\.github\.io\/ghayes\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
