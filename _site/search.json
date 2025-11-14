@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "pres.html",
-    "href": "pres.html",
-    "title": "Gracie Hayes",
-    "section": "",
-    "text": "Reducing Publication Bias in Meta-Analyses by Excluding Low-Powered Studies.\n\nSociety for Research on Educational Effectiveness Conference 2025 (September 2025, Chicago, IL).\nSociety for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI).\n\n\n\nDecorrelation Detection in Financial Time Series Data\n\n3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).\nJoint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual).\n\n\n\n\nWheaton College 2021 Summer Research Poster Session"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gracie Hayes",
-    "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n     STEPP Center\n  \n  \n     CV\n  \n\n  \n  \nI am a PhD candidate currently working on projects in Experimental Design and Meta Analysis. My career aspiration is to advance social justice by promoting equitable research methods and fair interpretations of quantitative data. I am currently looking for Summer 2026 internship opportunities.\n\nEducation\nPh.D. in Statistics and Data Science\nNorthwestern University | Anticipated June 2027\nM.S. in Statistics and Data Science\nNorthwestern University | March 2024\nB.S. in Mathematics & B.A. in Sociology\nWheaton College | May 2022\n\n\nRoles\n\nData Science Teaching Assistant\nNorthwestern University | Sep 2023 - Present\nBruce Spencer Outstanding Graduate TA or GA Award\nStudent Member\n\nSociety for Research Synthesis Methods\nSociety for Research on Educational Effectiveness\n\nConsultant\nIES Summer Research Training Institute on Cluster-Randomized Trials | Summers 2023 - 2025"
-  },
-  {
-    "objectID": "pres.html#reducing-publication-bias-in-meta-analyses-by-excluding-low-powered-studies.",
-    "href": "pres.html#reducing-publication-bias-in-meta-analyses-by-excluding-low-powered-studies.",
-    "title": "Presentations",
-    "section": "",
-    "text": "Society for Research on Educational Effectiveness Conference 2025 (September 2025, Chicago, IL).\nSociety for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI)."
-  },
-  {
-    "objectID": "pres.html#decorrelation-detection-in-financial-time-series-data",
-    "href": "pres.html#decorrelation-detection-in-financial-time-series-data",
-    "title": "Presentations",
-    "section": "Decorrelation Detection in Financial Time Series Data",
-    "text": "Decorrelation Detection in Financial Time Series Data\n\n3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).\nJoint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual).\n\n\n\n\nWheaton College 2021 Summer Research Poster Session"
-  },
-  {
-    "objectID": "pres.html#conference-presentations-and-posters",
-    "href": "pres.html#conference-presentations-and-posters",
-    "title": "About",
-    "section": "",
-    "text": "Society for Research on Educational Effectiveness Conference 2025 (September 2025, Chicago, IL).\nSociety for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI).\n\n\n\n\n\n3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).\nJoint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual).\n\n\n\n\nWheaton College 2021 Summer Research Poster Session"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Gracie Hayes",
@@ -54,5 +19,26 @@
     "title": "Gracie Hayes",
     "section": "Past Projects",
     "text": "Past Projects\n\nExperimental Design\nOverview : Created a design comparable effect size for the single-case alternating treatment design.\n\nDeveloped estimators of the effect size parameters and derived approximate small sample properties of the estimators analytically using quadratic forms.\nEvaluated properties of the developed estimators using multilevel simulation models.\nCreated visualizations using trellis plots to communicate the results to a non-technical audience.\n\n\n\nModeling Brain Imagaing Data\nOverview : Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.\n\nCreated mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses.\nOptimized mixed modeling processes to reduce computational intensity.\nImplemented a variety of other statistical analyses and tests for TBM, diffusion parameter maps, and ROIs as well.\nCreated outputs in R Shiny to facilitate ease of output understanding for users.\n\n\n\nModeling Atmospheric Data Models\nOverview : Determined which existing models for prediction of hazardous release movement are best suited for prediction, and uncovered patterns among outlying model types.\n\nModeled the outliers using k-means to determine which categories of models resulted in most and least effective prediction.\nUncovered outliers using Local Outlier Factor methodology.\nDetermined existing patterns among the outlying model types."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gracie Hayes",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n     STEPP Center\n  \n  \n     CV\n  \n\n  \n  \nI am a PhD candidate currently working on projects in Experimental Design and Meta Analysis. My career aspiration is to advance social justice by promoting equitable research methods and fair interpretations of quantitative data. I am currently looking for Summer 2026 internship opportunities.\n\nEducation\nPh.D. in Statistics and Data Science\nNorthwestern University | Anticipated June 2027\nM.S. in Statistics and Data Science\nNorthwestern University | March 2024\nB.S. in Mathematics & B.A. in Sociology\nWheaton College | May 2022\n\n\nRoles\n\nData Science Teaching Assistant\nNorthwestern University | Sep 2023 - Present\nBruce Spencer Outstanding Graduate TA or GA Award\nStudent Member\n\nSociety for Research Synthesis Methods\nSociety for Research on Educational Effectiveness\n\nConsultant\nIES Summer Research Training Institute on Cluster-Randomized Trials | Summers 2023 - 2025"
+  },
+  {
+    "objectID": "pres.html",
+    "href": "pres.html",
+    "title": "Gracie Hayes",
+    "section": "",
+    "text": "Society for Research on Educational Effectiveness Conference 2025 (September 2025, Chicago, IL).\nSociety for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI).\n\n\n\n\n\n3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).\nJoint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual).\n\n\n\n\nWheaton College 2021 Summer Research Poster Session"
+  },
+  {
+    "objectID": "pres.html#presentations",
+    "href": "pres.html#presentations",
+    "title": "Gracie Hayes",
+    "section": "",
+    "text": "Society for Research on Educational Effectiveness Conference 2025 (September 2025, Chicago, IL).\nSociety for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI).\n\n\n\n\n\n3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).\nJoint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual).\n\n\n\n\nWheaton College 2021 Summer Research Poster Session"
   }
 ]
