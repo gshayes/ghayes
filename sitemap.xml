@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gshayes.github.io/ghayes/about.html</loc>
-    <lastmod>2025-11-14T01:57:43.604Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gshayes.github.io/ghayes/pres.html</loc>
-    <lastmod>2025-11-14T01:57:43.664Z</lastmod>
+    <loc>https://gshayes.github.io/ghayes/projects.html</loc>
+    <lastmod>2025-11-14T02:13:33.007Z</lastmod>
   </url>
   <url>
     <loc>https://gshayes.github.io/ghayes/index.html</loc>
-    <lastmod>2025-11-14T01:57:43.664Z</lastmod>
+    <lastmod>2025-11-14T02:13:33.006Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gshayes.github.io/ghayes/pres.html</loc>
+    <lastmod>2025-11-14T02:13:33.006Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gshayes.github.io/ghayes/about.html</loc>
+    <lastmod>2025-11-14T02:13:32.945Z</lastmod>
   </url>
 </urlset>
