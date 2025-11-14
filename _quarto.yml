@@ -9,10 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - href: about.qmd
-      #   text: About
       - href: pres.qmd
-        text: Posters & Presentations
+        text: Research
       - text: CV
         href: Hayes_CV_2025.pdf
   page-footer:

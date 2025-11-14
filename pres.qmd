@@ -1,9 +1,8 @@
 ---
-title: "Presentations"
-format: html
+#title: "Conference Presentations and Posters"
 ---
 
-## Conference Presentations and Posters
+## Presentations
 
 ### Reducing Publication Bias in Meta-Analyses by Excluding Low-Powered Studies.
 
