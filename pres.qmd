@@ -10,9 +10,9 @@
 
 -   Society for Research Synthesis Methods Meeting 2025 Poster Session (July 2025, Madison, WI).
 
-### [Decorrelation Detection in Financial Time Series Data](https://www.wheaton.edu/academics/natural-sciences/summer-research-program/poster-session-awardees/2021/)
+### Decorrelation Detection in Financial Time Series Data
 
--   *3rd Place Award*, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).
+-   [*3rd Place Award*](https://www.wheaton.edu/academics/natural-sciences/summer-research-program/poster-session-awardees/2021/), Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).
 
 -   Joint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual).
 
